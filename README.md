@@ -25,5 +25,3 @@ To answer these questions I walked through many different pandas & matplotlib me
 - Plotting bar charts and lines graphs to visualize our results
 - Labeling our graphs
 
-## Process:
-![Link]([[SalesAnalysis/SalesAnalysis/Sales_Data_Analysis.ipynb](https://github.com/supratiktechandanalytics/Electronics_sales_Data/blob/main/SalesAnalysis/SalesAnalysis/Sales_Data_Analysis.ipynb)https://github.com/supratiktechandanalytics/Electronics_sales_Data/blob/main/SalesAnalysis/SalesAnalysis/Sales_Data_Analysis.ipynb)
