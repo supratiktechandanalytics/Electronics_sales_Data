@@ -26,4 +26,4 @@ To answer these questions I walked through many different pandas & matplotlib me
 - Labeling our graphs
 
 ## Process:
-![Alt Tag](https://github.com/PetraLee2019/Python-Sales-Analysis/blob/master/SalesAnalysis/Sales_Data_Analysis.png)
+![Alt Tag](SalesAnalysis/Sales_Data_Analysis.png)
